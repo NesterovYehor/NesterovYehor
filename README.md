@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NesterovYehor.
-- 👀 I’m interested in IOS development.
+- 👀 I’m interested in IOS and Flutter developer.
 - 🌱 I’m currently mastering in Mobile development and related stuff.  
 <!---
 NesterovYehor/NesterovYehor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
