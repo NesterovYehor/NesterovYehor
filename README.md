@@ -13,14 +13,12 @@ I’m a passionate **Mobile Developer** with a strong focus on **Flutter** and a
 ---
 
 ## 🛠 Tech Stack
-### Flutter & Dart
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend Development
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Tools & Technologies
+![Bloc](https://img.shields.io/badge/Bloc-0064C8?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -31,4 +29,3 @@ I’m a passionate **Mobile Developer** with a strong focus on **Flutter** and a
 - Mobile application development
 - Open-source contributions
 - Continuous learning in software engineering
-
