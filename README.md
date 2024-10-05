@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @NesterovYehor.
-- 👀 I’m interested in IOS and Flutter developer.
-- 🌱 I’m currently mastering in Mobile development and related stuff.  
-<!---
-NesterovYehor/NesterovYehor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Yehor Nesterov 👋
+
+### About Me
+- 📱 **Mobile Developer** with a passion for **Flutter**.
+- 🛠 Currently mastering **Mobile Development** and all things related to it.
+- 🔗 Also studying **Go** for backend development to enhance my skill set.
+
+### Get in Touch
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/yehor-nesterov-09ab45282/).
