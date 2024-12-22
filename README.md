@@ -26,6 +26,6 @@ I’m a passionate **Mobile Developer** with a strong focus on **Flutter** and a
 ---
 
 ## 👀 Interests
-- Mobile application development
+- Software development
 - Open-source contributions
 - Continuous learning in software engineering
