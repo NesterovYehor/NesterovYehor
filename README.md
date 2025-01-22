@@ -19,6 +19,7 @@ I occasionally use **Neovim (nvim)** for coding, although I am still exploring i
 - [LinkedIn](https://www.linkedin.com/in/yehor-nesterov-09ab45282/)
 - [Discord](https://discordapp.com/users/591678870973841428)
 - [Twitter(X)](https://x.com/_n3st_?s=21)
+- Or using Emain:yehorn38@gmail.com
 
 ---
 
@@ -45,4 +46,7 @@ I occasionally use **Neovim (nvim)** for coding, although I am still exploring i
 - Open-source contributions in backend
 - Continuous learning in system design and software architecture
 
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
