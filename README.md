@@ -43,4 +43,4 @@ I occasionally use **Neovim (nvim)** for coding, although I am still exploring i
 - Open-source contributions in backend
 - Continuous learning in system design and software architecture
 
-![ezyZip (1)](https://github.com/user-attachments/assets/3d18bec4-e3b2-4f3d-a483-1c8d5d145783)
+
