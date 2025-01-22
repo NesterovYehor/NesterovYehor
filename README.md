@@ -19,7 +19,7 @@ I occasionally use **Neovim (nvim)** for coding, although I am still exploring i
 - [LinkedIn](https://www.linkedin.com/in/yehor-nesterov-09ab45282/)
 - [Discord](https://discordapp.com/users/591678870973841428)
 - [Twitter(X)](https://x.com/_n3st_?s=21)
-- Or using Emain:yehorn38@gmail.com
+- Or using Emain: yehorn38@gmail.com
 
 ---
 
